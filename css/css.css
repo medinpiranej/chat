@@ -1,0 +1,31 @@
+.trupi{
+	width:600px;
+	margin: 0px auto 0px auto;
+}
+body{
+	background-color:#b7aeae;
+}
+#p_m{
+	width:150px;
+	height:500px;
+}
+#p_mes{
+	width:430px;
+	height:480px;
+	padding:10px;
+}
+.chat{
+	display:inline-block;
+	float:left;
+	background-color:#FFFFFF;
+	box-shadow: 5px 5px 5px;
+	overflow:auto;
+}
+.bisede{
+	background-color:#b7aeae;
+	margin : 10px;
+	padding :10px;
+	font-size:16px;
+	font-weight:bold;
+	
+}
